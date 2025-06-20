@@ -47,5 +47,13 @@ forecasting.
 ## Citation: ( Will be updated )
 Please do cite our paper in case you find it useful for your research.<br/>
 If you're using this article or code in your research or applications, please consider citing using this BibTeX:<br/>
-
+```
+@inproceedings{Mandal2025stocktrendnet,
+  title={StockTrendNet – Residual Learning-Based Deep Model for Accurate Stock Price Prediction},
+  author={ Mandal Soham  , Chatterjee Aritra , Bhattacharya Anubhab, Chakraborty Abir ,  Aich Utathya  and Sarkar Ram },
+  ConferenceTitile={CIACON2025},
+  year={2025},
+  note={Accepted for publication}
+}
+```
 <br/>
